@@ -1,0 +1,25 @@
+_repo: Chess-and-Checkers-the-Way-to-Mastership_4913
+creator:
+  author:
+    agent_name: Lasker, Edward
+    alias: Lasker, Eduard
+    birthdate: 1885
+    deathdate: 1981
+    gutenberg_agent_id: '1589'
+    url: http://www.gutenberg.org/2009/agents/1589
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Lasker
+description: ''
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4913'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Checkers'
+- !lcc 'GV'
+- !lcsh 'Chess'
+title: 'Chess and Checkers : the Way to Mastership'
+url: http://www.gutenberg.org/ebooks/4913
